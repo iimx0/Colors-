@@ -1,4 +1,0 @@
-This C++ tool displays basic terminal information the username and current working directory. 
-It retrieves the current user via system variables, replaces the home directory with ~, and shortens long paths to 30 characters.
-
-The output is formatted as a clean colored frame using blue, cyan, green, and yellow, making the command prompt more readable. Works on Linux and Termux, ideal for custom bash prompts.
