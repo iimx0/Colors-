@@ -3,8 +3,6 @@
 █─███▀█─██─██─██▀█─██─██─▄─▄█▄▄▄▄─█
 ▀▄▄▄▄▄▀▄▄▄▄▀▄▄▄▄▄▀▄▄▄▄▀▄▄▀▄▄▀▄▄▄▄▄▀
 
-COLORS - CUSTOMIZABLE TERMINAL PROMPT GENERATOR
-
 DESCRIPTION:
   colors generates customizable terminal prompts with dynamic user,
   computer, path, and symbol replacement. Supports Unicode frame characters
